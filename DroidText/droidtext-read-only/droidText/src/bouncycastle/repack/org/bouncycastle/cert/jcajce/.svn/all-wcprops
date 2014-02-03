@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce
+END
+JcaX509v3CertificateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509v3CertificateBuilder.java
+END
+JcaX509AttributeCertificateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509AttributeCertificateHolder.java
+END
+ProviderCertHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/ProviderCertHelper.java
+END
+JcaCRLStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaCRLStore.java
+END
+JcaX509CRLConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509CRLConverter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/package.html
+END
+JcaX509CertificateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509CertificateConverter.java
+END
+JcaX509CRLHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509CRLHolder.java
+END
+JcaAttrCertStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaAttrCertStore.java
+END
+JcaX509CertificateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509CertificateHolder.java
+END
+JcaCertStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaCertStore.java
+END
+CertHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/CertHelper.java
+END
+NamedCertHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/NamedCertHelper.java
+END
+DefaultCertHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/DefaultCertHelper.java
+END
+JcaX509v2CRLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509v2CRLBuilder.java
+END
+JcaX509v1CertificateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/jcajce/JcaX509v1CertificateBuilder.java
+END

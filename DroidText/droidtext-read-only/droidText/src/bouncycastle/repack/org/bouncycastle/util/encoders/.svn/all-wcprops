@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders
+END
+Translator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/Translator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/package.html
+END
+HexTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/HexTranslator.java
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/Encoder.java
+END
+BufferedEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/BufferedEncoder.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/Base64.java
+END
+Base64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/Base64Encoder.java
+END
+HexEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/HexEncoder.java
+END
+Hex.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/Hex.java
+END
+UrlBase64.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/UrlBase64.java
+END
+UrlBase64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/UrlBase64Encoder.java
+END
+BufferedDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/encoders/BufferedDecoder.java
+END

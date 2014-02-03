@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/text/xml
+END
+SAXiTextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/SAXiTextHandler.java
+END
+TagMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/TagMap.java
+END
+XmlPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/XmlPeer.java
+END
+XmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/XmlParser.java
+END
+XmlDomWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/XmlDomWriter.java
+END
+SAXmyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/SAXmyHandler.java
+END

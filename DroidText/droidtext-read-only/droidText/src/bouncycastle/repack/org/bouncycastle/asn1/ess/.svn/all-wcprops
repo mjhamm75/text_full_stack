@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess
+END
+SigningCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/SigningCertificate.java
+END
+OtherSigningCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/OtherSigningCertificate.java
+END
+ESSCertID.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/ESSCertID.java
+END
+SigningCertificateV2.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/SigningCertificateV2.java
+END
+OtherCertID.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/OtherCertID.java
+END
+ContentIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/ContentIdentifier.java
+END
+ESSCertIDv2.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/ESSCertIDv2.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/package.html
+END
+ContentHints.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/ess/ContentHints.java
+END

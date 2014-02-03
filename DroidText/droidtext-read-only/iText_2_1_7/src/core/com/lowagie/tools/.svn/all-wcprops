@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools
+END
+ConcatPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools/ConcatPdf.java
+END
+Executable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools/Executable.java
+END
+BuildTutorial.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools/BuildTutorial.java
+END
+SplitPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools/SplitPdf.java
+END
+ToolboxAvailable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools/ToolboxAvailable.java
+END
+HandoutPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools/HandoutPdf.java
+END
+EncryptPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/tools/EncryptPdf.java
+END

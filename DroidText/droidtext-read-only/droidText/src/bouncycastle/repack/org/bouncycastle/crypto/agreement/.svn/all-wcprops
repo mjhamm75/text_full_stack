@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement
+END
+ECDHCBasicAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/ECDHCBasicAgreement.java
+END
+DHAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/DHAgreement.java
+END
+DHBasicAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/DHBasicAgreement.java
+END
+ECMQVBasicAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/ECMQVBasicAgreement.java
+END
+ECDHBasicAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/ECDHBasicAgreement.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/package.html
+END

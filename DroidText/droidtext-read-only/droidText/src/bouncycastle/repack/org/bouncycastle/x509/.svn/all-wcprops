@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509
+END
+NoSuchParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/NoSuchParserException.java
+END
+CertPathReviewerMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/CertPathReviewerMessages_de.properties
+END
+X509StreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509StreamParser.java
+END
+X509Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509Util.java
+END
+X509CertPairStoreSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509CertPairStoreSelector.java
+END
+PKIXCertPathReviewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/PKIXCertPathReviewer.java
+END
+ExtendedPKIXParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/ExtendedPKIXParameters.java
+END
+X509CollectionStoreParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509CollectionStoreParameters.java
+END
+X509V2CRLGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509V2CRLGenerator.java
+END
+NoSuchStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/NoSuchStoreException.java
+END
+X509AttributeCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509AttributeCertificate.java
+END
+X509StoreSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509StoreSpi.java
+END
+AttributeCertificateIssuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/AttributeCertificateIssuer.java
+END
+X509CertStoreSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509CertStoreSelector.java
+END
+CertPathReviewerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/CertPathReviewerException.java
+END
+AttributeCertificateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/AttributeCertificateHolder.java
+END
+X509V2AttributeCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509V2AttributeCertificate.java
+END
+X509StoreParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509StoreParameters.java
+END
+PKIXAttrCertChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/PKIXAttrCertChecker.java
+END
+X509StreamParserSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509StreamParserSpi.java
+END
+X509V2AttributeCertificateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509V2AttributeCertificateGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/package.html
+END
+X509Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509Store.java
+END
+X509CertificatePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509CertificatePair.java
+END
+X509CRLStoreSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509CRLStoreSelector.java
+END
+X509AttributeCertStoreSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509AttributeCertStoreSelector.java
+END
+X509V1CertificateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509V1CertificateGenerator.java
+END
+CertPathReviewerMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/CertPathReviewerMessages.properties
+END
+ExtendedPKIXBuilderParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/ExtendedPKIXBuilderParameters.java
+END
+X509V3CertificateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509V3CertificateGenerator.java
+END
+X509Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/X509Attribute.java
+END
+ExtCertificateEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/x509/ExtCertificateEncodingException.java
+END

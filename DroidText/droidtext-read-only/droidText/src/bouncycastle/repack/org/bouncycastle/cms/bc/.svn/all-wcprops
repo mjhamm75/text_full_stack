@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cms/bc
+END
+BcKeyTransRecipientInfoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cms/bc/BcKeyTransRecipientInfoGenerator.java
+END
+BcRSAKeyTransRecipientInfoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cms/bc/BcRSAKeyTransRecipientInfoGenerator.java
+END
+BcRSASignerInfoVerifierBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cms/bc/BcRSASignerInfoVerifierBuilder.java
+END

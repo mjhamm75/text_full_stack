@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm
+END
+GCMUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/GCMUtil.java
+END
+GCMExponentiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/GCMExponentiator.java
+END
+BasicGCMExponentiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/BasicGCMExponentiator.java
+END
+Tables8kGCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/Tables8kGCMMultiplier.java
+END
+Tables64kGCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/Tables64kGCMMultiplier.java
+END
+GCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/GCMMultiplier.java
+END
+Tables1kGCMExponentiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/Tables1kGCMExponentiator.java
+END
+BasicGCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/modes/gcm/BasicGCMMultiplier.java
+END

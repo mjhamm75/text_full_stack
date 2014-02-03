@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style
+END
+RtfColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style/RtfColor.java
+END
+RtfFontList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style/RtfFontList.java
+END
+RtfStylesheetList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style/RtfStylesheetList.java
+END
+RtfStyleTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style/RtfStyleTypes.java
+END
+RtfFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style/RtfFont.java
+END
+RtfParagraphStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style/RtfParagraphStyle.java
+END
+RtfColorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/style/RtfColorList.java
+END

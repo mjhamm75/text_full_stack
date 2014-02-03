@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model
+END
+PdfFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/PdfFile.java
+END
+Permissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/Permissions.java
+END
+TreeNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/TreeNodeFactory.java
+END
+ObjectLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/ObjectLoader.java
+END
+XfaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/XfaFile.java
+END
+IndirectObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/IndirectObjectFactory.java
+END
+BackgroundTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/BackgroundTask.java
+END
+PageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/PageLoader.java
+END
+ProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/model/ProgressDialog.java
+END

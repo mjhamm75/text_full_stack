@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts
+END
+Helvetica-Oblique.afm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Helvetica-Oblique.afm
+END
+Symbol.afm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Symbol.afm
+END
+Courier-Oblique.afm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Courier-Oblique.afm
+END
+UniJIS-UCS2-HW-V.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniJIS-UCS2-HW-V.cmap
+END
+cjkfonts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/cjkfonts.properties
+END
+FontsResourceAnchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/FontsResourceAnchor.java
+END
+STSong-Light.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/STSong-Light.properties
+END
+UniJIS-UCS2-H.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniJIS-UCS2-H.cmap
+END
+UniGB-UCS2-H.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniGB-UCS2-H.cmap
+END
+HYSMyeongJo-Medium.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/HYSMyeongJo-Medium.properties
+END
+Helvetica-Bold.afm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Helvetica-Bold.afm
+END
+Times-Italic.afm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Times-Italic.afm
+END
+Times-BoldItalic.afm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Times-BoldItalic.afm
+END
+HYGoThic-Medium.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/HYGoThic-Medium.properties
+END
+Courier-Bold.afm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Courier-Bold.afm
+END
+MHei-Medium.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/MHei-Medium.properties
+END
+HeiseiKakuGo-W5.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/HeiseiKakuGo-W5.properties
+END
+cjkencodings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/cjkencodings.properties
+END
+UniJIS-UCS2-V.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniJIS-UCS2-V.cmap
+END
+Times-Roman.afm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Times-Roman.afm
+END
+HYSMyeongJoStd-Medium.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/HYSMyeongJoStd-Medium.properties
+END
+UniGB-UCS2-V.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniGB-UCS2-V.cmap
+END
+Times-Bold.afm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Times-Bold.afm
+END
+MSungStd-Light.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/MSungStd-Light.properties
+END
+Adobe-CNS1-UCS2.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Adobe-CNS1-UCS2.cmap
+END
+Helvetica-BoldOblique.afm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Helvetica-BoldOblique.afm
+END
+Helvetica.afm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Helvetica.afm
+END
+UniKS-UCS2-H.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniKS-UCS2-H.cmap
+END
+cmap_info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/cmap_info.txt
+END
+Courier-BoldOblique.afm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Courier-BoldOblique.afm
+END
+Courier.afm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Courier.afm
+END
+Adobe-GB1-UCS2.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Adobe-GB1-UCS2.cmap
+END
+Adobe-Japan1-UCS2.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Adobe-Japan1-UCS2.cmap
+END
+UniCNS-UCS2-H.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniCNS-UCS2-H.cmap
+END
+ZapfDingbats.afm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/ZapfDingbats.afm
+END
+KozMinPro-Regular.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/KozMinPro-Regular.properties
+END
+Adobe-Korea1-UCS2.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/Adobe-Korea1-UCS2.cmap
+END
+UniKS-UCS2-V.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniKS-UCS2-V.cmap
+END
+mustRead.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/mustRead.html
+END
+STSongStd-Light.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/STSongStd-Light.properties
+END
+MSung-Light.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/MSung-Light.properties
+END
+UniCNS-UCS2-V.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniCNS-UCS2-V.cmap
+END
+UniJIS-UCS2-HW-H.cmap
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/UniJIS-UCS2-HW-H.cmap
+END
+HeiseiMin-W3.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/HeiseiMin-W3.properties
+END
+glyphlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/fonts/glyphlist.txt
+END

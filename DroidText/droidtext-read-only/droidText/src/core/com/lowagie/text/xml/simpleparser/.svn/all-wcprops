@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/text/xml/simpleparser
+END
+SimpleXMLDocHandlerComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/simpleparser/SimpleXMLDocHandlerComment.java
+END
+IanaEncodings.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/text/xml/simpleparser/IanaEncodings.java
+END
+SimpleXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/simpleparser/SimpleXMLParser.java
+END
+EntitiesToSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/simpleparser/EntitiesToSymbol.java
+END
+SimpleXMLDocHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/simpleparser/SimpleXMLDocHandler.java
+END
+EntitiesToUnicode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/simpleparser/EntitiesToUnicode.java
+END

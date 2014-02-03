@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/droidText/src/core/com/lowagie/tools
+END
+HandoutPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/tools/HandoutPdf.java
+END
+EncryptPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/tools/EncryptPdf.java
+END
+ConcatPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/tools/ConcatPdf.java
+END
+Executable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/tools/Executable.java
+END
+SplitPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/tools/SplitPdf.java
+END

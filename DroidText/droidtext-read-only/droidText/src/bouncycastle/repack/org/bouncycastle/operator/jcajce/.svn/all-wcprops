@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce
+END
+JcaContentVerifierProviderBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/JcaContentVerifierProviderBuilder.java
+END
+JcaContentSignerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/JcaContentSignerBuilder.java
+END
+JceSymmetricKeyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/JceSymmetricKeyWrapper.java
+END
+JcaDigestCalculatorProviderBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/JcaDigestCalculatorProviderBuilder.java
+END
+JceAsymmetricKeyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/JceAsymmetricKeyWrapper.java
+END
+JceSymmetricKeyUnwrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/JceSymmetricKeyUnwrapper.java
+END
+OperatorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/OperatorHelper.java
+END
+JceAsymmetricKeyUnwrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/JceAsymmetricKeyUnwrapper.java
+END
+OperatorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/jcajce/OperatorUtils.java
+END

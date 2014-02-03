@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments
+END
+ImageArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/ImageArgument.java
+END
+AbstractArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/AbstractArgument.java
+END
+FloatArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/FloatArgument.java
+END
+StringArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/StringArgument.java
+END
+PageSizeArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/PageSizeArgument.java
+END
+OptionArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/OptionArgument.java
+END
+BitsetArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/BitsetArgument.java
+END
+IntegerArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/IntegerArgument.java
+END
+FileArrayArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/FileArrayArgument.java
+END
+ColorArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/ColorArgument.java
+END
+FileArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/FileArgument.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf
+END
+RtfMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/RtfMapper.java
+END
+RtfAddableElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/RtfAddableElement.java
+END
+RtfElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/RtfElement.java
+END
+RtfExtendedElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/RtfExtendedElement.java
+END
+RtfBasicElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/RtfBasicElement.java
+END
+RtfWriter2.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/RtfWriter2.java
+END

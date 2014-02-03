@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/filters
+END
+PdfFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/filters/PdfFilter.java
+END
+U3DFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/filters/U3DFilter.java
+END
+DirFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/filters/DirFilter.java
+END
+ImageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/arguments/filters/ImageFilter.java
+END

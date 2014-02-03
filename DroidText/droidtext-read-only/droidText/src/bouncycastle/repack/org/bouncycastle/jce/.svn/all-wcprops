@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce
+END
+MultiCertStoreParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/MultiCertStoreParameters.java
+END
+ECNamedCurveTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/ECNamedCurveTable.java
+END
+ProviderConfigurationPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/ProviderConfigurationPermission.java
+END
+PKCS10CertificationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/PKCS10CertificationRequest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/package.html
+END
+ECGOST3410NamedCurveTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/ECGOST3410NamedCurveTable.java
+END
+ECKeyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/ECKeyUtil.java
+END
+PrincipalUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/PrincipalUtil.java
+END
+PKCS12Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/PKCS12Util.java
+END
+X509KeyUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/X509KeyUsage.java
+END
+X509LDAPCertStoreParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/X509LDAPCertStoreParameters.java
+END
+X509Principal.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/X509Principal.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser
+END
+RtfParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/RtfParser.java
+END
+RtfParserState.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/RtfParserState.java
+END
+RtfImportMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/RtfImportMgr.java
+END
+RtfImportMappings.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/RtfImportMappings.java
+END

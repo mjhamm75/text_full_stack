@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/document/output
+END
+RtfDataCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/document/output/RtfDataCache.java
+END
+RtfDiskCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/document/output/RtfDiskCache.java
+END
+RtfNilOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/document/output/RtfNilOutputStream.java
+END
+RtfEfficientMemoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/document/output/RtfEfficientMemoryCache.java
+END
+RtfByteArrayBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/document/output/RtfByteArrayBuffer.java
+END
+RtfMemoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/document/output/RtfMemoryCache.java
+END

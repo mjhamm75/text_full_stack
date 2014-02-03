@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/package.html
+END
+OCSPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/OCSPException.java
+END
+OCSPReqBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/OCSPReqBuilder.java
+END
+OCSPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/OCSPUtils.java
+END
+CertificateStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/CertificateStatus.java
+END
+RespID.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/RespID.java
+END
+Req.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/Req.java
+END
+OCSPResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/OCSPResp.java
+END
+CertificateID.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/CertificateID.java
+END
+BasicOCSPResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/BasicOCSPResp.java
+END
+UnknownStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/UnknownStatus.java
+END
+RevokedStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/RevokedStatus.java
+END
+RespData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/RespData.java
+END
+OCSPRespBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/OCSPRespBuilder.java
+END
+BasicOCSPRespBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/BasicOCSPRespBuilder.java
+END
+SingleResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/SingleResp.java
+END
+OCSPReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/ocsp/OCSPReq.java
+END

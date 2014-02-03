@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert
+END
+AttributeCertificateIssuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/AttributeCertificateIssuer.java
+END
+AttributeCertificateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/AttributeCertificateHolder.java
+END
+CertIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/CertIOException.java
+END
+X509CRLHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509CRLHolder.java
+END
+X509v2CRLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509v2CRLBuilder.java
+END
+X509CertificateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509CertificateHolder.java
+END
+X509v1CertificateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509v1CertificateBuilder.java
+END
+X509CRLEntryHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509CRLEntryHolder.java
+END
+X509v3CertificateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509v3CertificateBuilder.java
+END
+X509AttributeCertificateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509AttributeCertificateHolder.java
+END
+X509v2AttributeCertificateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/X509v2AttributeCertificateBuilder.java
+END
+CertException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/CertException.java
+END
+CertUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/CertUtils.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/package.html
+END

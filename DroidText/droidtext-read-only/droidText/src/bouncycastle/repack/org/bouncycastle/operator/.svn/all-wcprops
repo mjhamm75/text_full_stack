@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator
+END
+KeyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/KeyWrapper.java
+END
+DigestCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/DigestCalculator.java
+END
+SymmetricKeyUnwrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/SymmetricKeyUnwrapper.java
+END
+AsymmetricKeyUnwrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/AsymmetricKeyUnwrapper.java
+END
+InputDecryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/InputDecryptor.java
+END
+KeyUnwrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/KeyUnwrapper.java
+END
+OperatorCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/OperatorCreationException.java
+END
+InputExpanderProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/InputExpanderProvider.java
+END
+SignatureAlgorithmIdentifierFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/SignatureAlgorithmIdentifierFinder.java
+END
+DigestCalculatorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/DigestCalculatorProvider.java
+END
+OutputEncryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/OutputEncryptor.java
+END
+ContentVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/ContentVerifier.java
+END
+DefaultSignatureAlgorithmIdentifierFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java
+END
+MacCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/MacCalculator.java
+END
+OperatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/OperatorException.java
+END
+OutputCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/OutputCompressor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/package.html
+END
+RuntimeOperatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/RuntimeOperatorException.java
+END
+RawContentVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/RawContentVerifier.java
+END
+ContentVerifierProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/ContentVerifierProvider.java
+END
+DigestAlgorithmIdentifierFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/DigestAlgorithmIdentifierFinder.java
+END
+ContentSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/ContentSigner.java
+END
+GenericKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/GenericKey.java
+END
+OperatorStreamException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/OperatorStreamException.java
+END
+SymmetricKeyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/SymmetricKeyWrapper.java
+END
+DefaultDigestAlgorithmIdentifierFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/DefaultDigestAlgorithmIdentifierFinder.java
+END
+InputExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/InputExpander.java
+END
+AsymmetricKeyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/operator/AsymmetricKeyWrapper.java
+END

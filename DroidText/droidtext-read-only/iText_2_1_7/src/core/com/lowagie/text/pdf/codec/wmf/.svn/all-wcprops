@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf
+END
+MetaFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf/MetaFont.java
+END
+MetaObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf/MetaObject.java
+END
+InputMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf/InputMeta.java
+END
+MetaState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf/MetaState.java
+END
+MetaDo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf/MetaDo.java
+END
+MetaPen.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf/MetaPen.java
+END
+MetaBrush.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/wmf/MetaBrush.java
+END

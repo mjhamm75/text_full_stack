@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/41/trunk/droidTextTest
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/droidTextTest/AndroidManifest.xml
+END
+tests.ods
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/16/trunk/droidTextTest/tests.ods
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/droidTextTest/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/droidTextTest/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/droidTextTest/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/droidTextTest/.project
+END

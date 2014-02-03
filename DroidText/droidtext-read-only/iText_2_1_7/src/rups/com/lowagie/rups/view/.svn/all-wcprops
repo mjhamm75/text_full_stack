@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/Console.java
+END
+PageNavigationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/PageNavigationListener.java
+END
+MessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/MessageAction.java
+END
+RupsMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/RupsMenuBar.java
+END
+PageNavigationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/PageNavigationAction.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs
+END
+PKCS10CertificationRequestHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/PKCS10CertificationRequestHolder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/package.html
+END
+PKCSException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/PKCSException.java
+END
+EncryptedPrivateKeyInfoBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/EncryptedPrivateKeyInfoBuilder.java
+END
+PKCS10CertificationRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/PKCS10CertificationRequestBuilder.java
+END
+PKCSIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/PKCSIOException.java
+END
+EncryptedPrivateKeyInfoHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/EncryptedPrivateKeyInfoHolder.java
+END

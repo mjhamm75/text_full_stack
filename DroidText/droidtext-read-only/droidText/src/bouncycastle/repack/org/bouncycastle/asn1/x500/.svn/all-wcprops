@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x500
+END
+RDN.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x500/RDN.java
+END
+X500NameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x500/X500NameBuilder.java
+END
+AttributeTypeAndValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x500/AttributeTypeAndValue.java
+END
+DirectoryString.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x500/DirectoryString.java
+END
+X500Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x500/X500Name.java
+END
+X500NameStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x500/X500NameStyle.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime/package.html
+END
+SMIMECapabilityVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime/SMIMECapabilityVector.java
+END
+SMIMEEncryptionKeyPreferenceAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime/SMIMEEncryptionKeyPreferenceAttribute.java
+END
+SMIMEAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime/SMIMEAttributes.java
+END
+SMIMECapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime/SMIMECapabilities.java
+END
+SMIMECapabilitiesAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime/SMIMECapabilitiesAttribute.java
+END
+SMIMECapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/smime/SMIMECapability.java
+END

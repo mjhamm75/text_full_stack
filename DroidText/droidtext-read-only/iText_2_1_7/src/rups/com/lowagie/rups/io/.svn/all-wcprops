@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/io
+END
+FileChooserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/io/FileChooserAction.java
+END
+FileCloseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/io/FileCloseAction.java
+END
+OutputStreamResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/io/OutputStreamResource.java
+END
+TextAreaOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/io/TextAreaOutputStream.java
+END

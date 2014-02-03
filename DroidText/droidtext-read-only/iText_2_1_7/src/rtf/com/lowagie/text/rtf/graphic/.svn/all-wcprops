@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/graphic
+END
+RtfShapeProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/graphic/RtfShapeProperty.java
+END
+RtfShapePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/graphic/RtfShapePosition.java
+END
+RtfShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/graphic/RtfShape.java
+END
+RtfImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/graphic/RtfImage.java
+END

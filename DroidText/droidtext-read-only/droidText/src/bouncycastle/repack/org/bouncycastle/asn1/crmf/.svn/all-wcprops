@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf
+END
+PKIPublicationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/PKIPublicationInfo.java
+END
+CertTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/CertTemplate.java
+END
+EncryptedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/EncryptedValue.java
+END
+OptionalValidity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/OptionalValidity.java
+END
+CertReqMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/CertReqMessages.java
+END
+CertTemplateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/CertTemplateBuilder.java
+END
+ProofOfPossession.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/ProofOfPossession.java
+END
+PKIArchiveOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/PKIArchiveOptions.java
+END
+SubsequentMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/SubsequentMessage.java
+END
+Controls.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/Controls.java
+END
+CRMFObjectIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/CRMFObjectIdentifiers.java
+END
+SinglePubInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/SinglePubInfo.java
+END
+POPOSigningKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/POPOSigningKey.java
+END
+EncryptedKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/EncryptedKey.java
+END
+CertRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/CertRequest.java
+END
+CertId.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/CertId.java
+END
+CertReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/CertReqMsg.java
+END
+POPOSigningKeyInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/POPOSigningKeyInput.java
+END
+AttributeTypeAndValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/AttributeTypeAndValue.java
+END
+POPOPrivKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/POPOPrivKey.java
+END
+EncKeyWithID.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/EncKeyWithID.java
+END
+PKMACValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/crmf/PKMACValue.java
+END

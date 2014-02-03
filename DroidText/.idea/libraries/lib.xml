@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/bcmail-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/pdf-renderer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/bctsp-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/junit-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/iTextAsian.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/crimson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/bcprov-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/itext-hyph-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/jcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/lib/iTextAsianCmaps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

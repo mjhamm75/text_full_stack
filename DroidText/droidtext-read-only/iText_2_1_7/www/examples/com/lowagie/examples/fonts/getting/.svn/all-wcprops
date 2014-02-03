@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting
+END
+liz.otf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/liz.otf
+END
+ChineseJapaneseKorean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/ChineseJapaneseKorean.java
+END
+OpenTypeFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/OpenTypeFont.java
+END
+RegisterFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/RegisterFont.java
+END
+TrueTypeCollections.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/TrueTypeCollections.java
+END
+TrueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/TrueType.java
+END
+FontFactoryStyles.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/FontFactoryStyles.java
+END
+UsingFontFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14/trunk/iText_2_1_7/www/examples/com/lowagie/examples/fonts/getting/UsingFontFactory.java
+END

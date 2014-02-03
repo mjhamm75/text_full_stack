@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/io
+END
+TeeInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/io/TeeInputStream.java
+END
+TeeOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/io/TeeOutputStream.java
+END
+Streams.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/io/Streams.java
+END
+StreamOverflowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/util/io/StreamOverflowException.java
+END

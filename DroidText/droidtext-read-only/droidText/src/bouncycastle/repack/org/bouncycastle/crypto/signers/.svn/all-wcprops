@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers
+END
+ECGOST3410Signer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/ECGOST3410Signer.java
+END
+GenericSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/GenericSigner.java
+END
+ISO9796d2Signer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/ISO9796d2Signer.java
+END
+ECDSASigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/ECDSASigner.java
+END
+GOST3410Signer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/GOST3410Signer.java
+END
+ISO9796d2PSSSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/ISO9796d2PSSSigner.java
+END
+PSSSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/PSSSigner.java
+END
+RSADigestSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/RSADigestSigner.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/package.html
+END
+DSASigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/DSASigner.java
+END
+ECNRSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/ECNRSigner.java
+END
+DSADigestSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/signers/DSADigestSigner.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/kdf
+END
+DHKDFParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/kdf/DHKDFParameters.java
+END
+ECDHKEKGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/kdf/ECDHKEKGenerator.java
+END
+DHKEKGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/agreement/kdf/DHKEKGenerator.java
+END

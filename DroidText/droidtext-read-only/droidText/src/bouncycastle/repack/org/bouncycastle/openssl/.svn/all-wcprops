@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl
+END
+EncryptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/EncryptionException.java
+END
+PasswordFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/PasswordFinder.java
+END
+PEMUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/PEMUtilities.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/package.html
+END
+PEMWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/PEMWriter.java
+END
+PKCS8Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/PKCS8Generator.java
+END
+PEMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/PEMException.java
+END
+PasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/PasswordException.java
+END
+MiscPEMGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/MiscPEMGenerator.java
+END
+PEMReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/openssl/PEMReader.java
+END

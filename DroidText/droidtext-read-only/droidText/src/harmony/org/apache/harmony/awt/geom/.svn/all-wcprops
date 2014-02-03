@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/droidText/src/harmony/org/apache/harmony/awt/geom
+END
+CrossingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/droidText/src/harmony/org/apache/harmony/awt/geom/CrossingHelper.java
+END
+GeometryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/droidText/src/harmony/org/apache/harmony/awt/geom/GeometryUtil.java
+END
+IntersectPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/droidText/src/harmony/org/apache/harmony/awt/geom/IntersectPoint.java
+END
+CurveCrossingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/droidText/src/harmony/org/apache/harmony/awt/geom/CurveCrossingHelper.java
+END

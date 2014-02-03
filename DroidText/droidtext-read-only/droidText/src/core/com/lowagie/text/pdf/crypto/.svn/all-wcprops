@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/droidText/src/core/com/lowagie/text/pdf/crypto
+END
+ARCFOUREncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/crypto/ARCFOUREncryption.java
+END
+AESCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/41/trunk/droidText/src/core/com/lowagie/text/pdf/crypto/AESCipher.java
+END
+IVGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/crypto/IVGenerator.java
+END

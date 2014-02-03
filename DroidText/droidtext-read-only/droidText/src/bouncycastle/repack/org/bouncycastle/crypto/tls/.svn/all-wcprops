@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls
+END
+EncryptionAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/EncryptionAlgorithm.java
+END
+TlsFatalAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsFatalAlert.java
+END
+TlsECDHKeyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsECDHKeyExchange.java
+END
+TlsSRPKeyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsSRPKeyExchange.java
+END
+DefaultTlsClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/DefaultTlsClient.java
+END
+TlsECDHEKeyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsECDHEKeyExchange.java
+END
+ByteQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/ByteQueue.java
+END
+TlsBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsBlockCipher.java
+END
+ECPointFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/ECPointFormat.java
+END
+TlsECDSASigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsECDSASigner.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/ContentType.java
+END
+DefaultTlsAgreementCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/DefaultTlsAgreementCredentials.java
+END
+TlsKeyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsKeyExchange.java
+END
+TlsNullCompression.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsNullCompression.java
+END
+Certificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/Certificate.java
+END
+TlsProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsProtocolHandler.java
+END
+ClientCertificateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/ClientCertificateType.java
+END
+TlsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsUtils.java
+END
+CipherSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/CipherSuite.java
+END
+TlsRSAKeyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsRSAKeyExchange.java
+END
+CombinedHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/CombinedHash.java
+END
+TlsRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsRuntimeException.java
+END
+HandshakeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/HandshakeType.java
+END
+TlsNullCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsNullCipher.java
+END
+TlsClientContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsClientContextImpl.java
+END
+NamedCurve.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/NamedCurve.java
+END
+TlsDHKeyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsDHKeyExchange.java
+END
+TlsCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsCipher.java
+END
+ECCurveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/ECCurveType.java
+END
+AlertLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/AlertLevel.java
+END
+TlsDHEKeyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsDHEKeyExchange.java
+END
+TlsClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsClient.java
+END
+TlsDSASigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsDSASigner.java
+END
+KeyExchangeAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/KeyExchangeAlgorithm.java
+END
+CompressionMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/CompressionMethod.java
+END
+TlsAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsAuthentication.java
+END
+TlsClientContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsClientContext.java
+END
+TlsAgreementCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsAgreementCredentials.java
+END
+TlsSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsSigner.java
+END
+AlertDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/AlertDescription.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/package.html
+END
+ExtensionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/ExtensionType.java
+END
+TlsRSASigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsRSASigner.java
+END
+TlsCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsCredentials.java
+END
+TlsMac.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsMac.java
+END
+TlsDSSSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsDSSSigner.java
+END
+TlsCompression.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsCompression.java
+END
+TlsCipherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsCipherFactory.java
+END
+SRPTlsClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/SRPTlsClient.java
+END
+DigestAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/DigestAlgorithm.java
+END
+LegacyTlsClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/LegacyTlsClient.java
+END
+LegacyTlsAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/LegacyTlsAuthentication.java
+END
+TlsSignerCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsSignerCredentials.java
+END
+RecordStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/RecordStream.java
+END
+DefaultTlsCipherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/DefaultTlsCipherFactory.java
+END
+CertificateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/CertificateRequest.java
+END
+SecurityParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/SecurityParameters.java
+END
+AlwaysValidVerifyer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/AlwaysValidVerifyer.java
+END
+DefaultTlsSignerCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/DefaultTlsSignerCredentials.java
+END
+TlsInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsInputStream.java
+END
+CertificateVerifyer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/CertificateVerifyer.java
+END
+TlsOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/tls/TlsOutputStream.java
+END

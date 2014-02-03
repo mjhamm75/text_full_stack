@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/filter
+END
+UntrustedInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/filter/UntrustedInput.java
+END
+UntrustedUrlInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/filter/UntrustedUrlInput.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/filter/Filter.java
+END
+SQLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/filter/SQLFilter.java
+END
+TrustedInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/filter/TrustedInput.java
+END
+HTMLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/filter/HTMLFilter.java
+END

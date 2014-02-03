@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509
+END
+NamingAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/NamingAuthority.java
+END
+ProfessionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/ProfessionInfo.java
+END
+AdditionalInformationSyntax.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/AdditionalInformationSyntax.java
+END
+Restriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/Restriction.java
+END
+DeclarationOfMajority.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/DeclarationOfMajority.java
+END
+Admissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/Admissions.java
+END
+ProcurationSyntax.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/ProcurationSyntax.java
+END
+AdmissionSyntax.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/AdmissionSyntax.java
+END
+MonetaryLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/isismtt/x509/MonetaryLimit.java
+END

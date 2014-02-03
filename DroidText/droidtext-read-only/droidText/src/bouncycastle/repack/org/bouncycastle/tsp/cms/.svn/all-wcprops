@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms
+END
+CMSTimeStampedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms/CMSTimeStampedData.java
+END
+TimeStampDataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms/TimeStampDataUtil.java
+END
+MetaDataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms/MetaDataUtil.java
+END
+CMSTimeStampedDataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms/CMSTimeStampedDataGenerator.java
+END
+CMSTimeStampedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms/CMSTimeStampedGenerator.java
+END
+CMSTimeStampedDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms/CMSTimeStampedDataParser.java
+END
+ImprintDigestInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/tsp/cms/ImprintDigestInvalidException.java
+END

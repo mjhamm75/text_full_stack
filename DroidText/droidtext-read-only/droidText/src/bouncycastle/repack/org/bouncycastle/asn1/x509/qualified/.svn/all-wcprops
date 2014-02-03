@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified
+END
+RFC3739QCObjectIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/RFC3739QCObjectIdentifiers.java
+END
+ETSIQCObjectIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/ETSIQCObjectIdentifiers.java
+END
+BiometricData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/BiometricData.java
+END
+QCStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/QCStatement.java
+END
+MonetaryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/MonetaryValue.java
+END
+SemanticsInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/SemanticsInformation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/package.html
+END
+Iso4217CurrencyCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/Iso4217CurrencyCode.java
+END
+TypeOfBiometricData.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/x509/qualified/TypeOfBiometricData.java
+END

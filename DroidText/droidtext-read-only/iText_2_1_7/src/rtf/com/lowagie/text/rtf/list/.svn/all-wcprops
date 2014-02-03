@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/list
+END
+RtfPictureList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/list/RtfPictureList.java
+END
+RtfListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/list/RtfListItem.java
+END
+RtfList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/list/RtfList.java
+END
+RtfListTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/list/RtfListTable.java
+END
+RtfListLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/list/RtfListLevel.java
+END

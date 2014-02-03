@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings
+END
+PaddedBufferedBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/PaddedBufferedBlockCipher.java
+END
+ZeroBytePadding.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/ZeroBytePadding.java
+END
+X923Padding.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/X923Padding.java
+END
+BlockCipherPadding.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/BlockCipherPadding.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/package.html
+END
+PKCS7Padding.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/PKCS7Padding.java
+END
+ISO7816d4Padding.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/ISO7816d4Padding.java
+END
+TBCPadding.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/TBCPadding.java
+END
+ISO10126d2Padding.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/crypto/paddings/ISO10126d2Padding.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/controller
+END
+RupsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/controller/RupsController.java
+END
+PdfReaderController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/controller/PdfReaderController.java
+END
+PdfRendererController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/controller/PdfRendererController.java
+END

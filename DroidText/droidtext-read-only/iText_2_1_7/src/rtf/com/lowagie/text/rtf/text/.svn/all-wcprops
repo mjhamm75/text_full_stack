@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text
+END
+RtfSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfSection.java
+END
+RtfParagraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfParagraph.java
+END
+RtfNewPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfNewPage.java
+END
+RtfTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfTab.java
+END
+RtfChapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfChapter.java
+END
+RtfChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfChunk.java
+END
+RtfAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfAnnotation.java
+END
+RtfPhrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfPhrase.java
+END
+RtfTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/text/RtfTabGroup.java
+END

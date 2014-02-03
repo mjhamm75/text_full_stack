@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n
+END
+LocalizedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/LocalizedException.java
+END
+LocaleString.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/LocaleString.java
+END
+MissingEntryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/MissingEntryException.java
+END
+LocalizedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/LocalizedMessage.java
+END
+MessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/MessageBundle.java
+END
+TextBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/TextBundle.java
+END
+ErrorBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/i18n/ErrorBundle.java
+END

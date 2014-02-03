@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/droidtext-read-only/droidText/src/droidText.iml" filepath="$PROJECT_DIR$/droidtext-read-only/droidText/src/droidText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidtext-read-only/droidTextTest/src/droidTextTest.iml" filepath="$PROJECT_DIR$/droidtext-read-only/droidTextTest/src/droidTextTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/src/iText_2_1_7.iml" filepath="$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/src/iText_2_1_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/test/test.iml" filepath="$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/www/www.iml" filepath="$PROJECT_DIR$/droidtext-read-only/iText_2_1_7/www/www.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider
+END
+JCEDigestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEDigestUtil.java
+END
+X509CertificateObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509CertificateObject.java
+END
+PKIXPolicyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXPolicyNode.java
+END
+DSABase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/DSABase.java
+END
+JCERSACipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCERSACipher.java
+END
+JDKKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKKeyPairGenerator.java
+END
+PKIXCertPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXCertPath.java
+END
+PBE.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PBE.java
+END
+PKIXCRLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXCRLUtil.java
+END
+JCERSAPrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCERSAPrivateKey.java
+END
+X509CertPairParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509CertPairParser.java
+END
+JDKMessageDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKMessageDigest.java
+END
+JCEDHKeyAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEDHKeyAgreement.java
+END
+X509StoreLDAPAttrCerts.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreLDAPAttrCerts.java
+END
+JCEKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEKeyGenerator.java
+END
+GOST3410Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/GOST3410Util.java
+END
+ReasonsMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/ReasonsMask.java
+END
+PKIXNameConstraintValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXNameConstraintValidator.java
+END
+JCEIESCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEIESCipher.java
+END
+X509CertParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509CertParser.java
+END
+JDKDSAPrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKDSAPrivateKey.java
+END
+DSAUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/DSAUtil.java
+END
+JDKISOSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKISOSignature.java
+END
+BrokenKDF2BytesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/BrokenKDF2BytesGenerator.java
+END
+PKIXNameConstraintValidatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXNameConstraintValidatorException.java
+END
+BrokenPBE.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/BrokenPBE.java
+END
+JCEBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEBlockCipher.java
+END
+JDKDSAPublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKDSAPublicKey.java
+END
+JCEStreamCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEStreamCipher.java
+END
+BrokenJCEBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/BrokenJCEBlockCipher.java
+END
+RFC3280CertPathUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/RFC3280CertPathUtilities.java
+END
+PEMUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PEMUtil.java
+END
+JCEElGamalCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEElGamalCipher.java
+END
+X509CRLEntryObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509CRLEntryObject.java
+END
+JCERSAPublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCERSAPublicKey.java
+END
+WrapCipherSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/WrapCipherSpi.java
+END
+JDKECDSAAlgParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKECDSAAlgParameters.java
+END
+X509CRLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509CRLParser.java
+END
+PKIXAttrCertPathValidatorSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXAttrCertPathValidatorSpi.java
+END
+JDKGOST3410Signer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKGOST3410Signer.java
+END
+JCEDHPublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEDHPublicKey.java
+END
+JCEElGamalPrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEElGamalPrivateKey.java
+END
+X509StoreCertPairCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreCertPairCollection.java
+END
+PKIXCertPathBuilderSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXCertPathBuilderSpi.java
+END
+X509AttrCertParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509AttrCertParser.java
+END
+PKCS12BagAttributeCarrierImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKCS12BagAttributeCarrierImpl.java
+END
+JCEElGamalPublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEElGamalPublicKey.java
+END
+X509StoreCRLCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreCRLCollection.java
+END
+X509StoreLDAPCertPairs.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreLDAPCertPairs.java
+END
+JCEPBEKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEPBEKey.java
+END
+MultiCertStoreSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/MultiCertStoreSpi.java
+END
+JDKPSSSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKPSSSigner.java
+END
+X509StoreLDAPCRLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreLDAPCRLs.java
+END
+DSAEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/DSAEncoder.java
+END
+JCESecretKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCESecretKeyFactory.java
+END
+JDKKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKKeyFactory.java
+END
+X509StoreCertCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreCertCollection.java
+END
+X509LDAPCertStoreSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509LDAPCertStoreSpi.java
+END
+ExtCRLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/ExtCRLException.java
+END
+JCEDHPrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEDHPrivateKey.java
+END
+JCEECPublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEECPublicKey.java
+END
+JCEMac.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEMac.java
+END
+JDKPKCS12KeyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKPKCS12KeyStore.java
+END
+X509StoreLDAPCerts.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreLDAPCerts.java
+END
+JCERSAPrivateCrtKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCERSAPrivateCrtKey.java
+END
+PKIXAttrCertPathBuilderSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXAttrCertPathBuilderSpi.java
+END
+JDKGOST3410PublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKGOST3410PublicKey.java
+END
+JDKAlgorithmParameterGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKAlgorithmParameterGenerator.java
+END
+PKIXCertPathValidatorSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/PKIXCertPathValidatorSpi.java
+END
+JDKX509CertificateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKX509CertificateFactory.java
+END
+JDKDigestSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKDigestSignature.java
+END
+AnnotatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/AnnotatedException.java
+END
+ElGamalUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/ElGamalUtil.java
+END
+CertStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/CertStatus.java
+END
+CertStoreCollectionSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/CertStoreCollectionSpi.java
+END
+JDKAlgorithmParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKAlgorithmParameters.java
+END
+BouncyCastleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/BouncyCastleProvider.java
+END
+X509StoreAttrCertCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509StoreAttrCertCollection.java
+END
+JDKDSASigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKDSASigner.java
+END
+CertPathValidatorUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/CertPathValidatorUtilities.java
+END
+JCEECPrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JCEECPrivateKey.java
+END
+RFC3281CertPathUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/RFC3281CertPathUtilities.java
+END
+JDKGOST3410PrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKGOST3410PrivateKey.java
+END
+RSAUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/RSAUtil.java
+END
+X509SignatureUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509SignatureUtil.java
+END
+ProviderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/ProviderUtil.java
+END
+DHUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/DHUtil.java
+END
+X509CRLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/X509CRLObject.java
+END
+JDKKeyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/JDKKeyStore.java
+END

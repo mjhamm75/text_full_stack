@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp
+END
+ProtectedPKIMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/ProtectedPKIMessageBuilder.java
+END
+CMPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/CMPUtil.java
+END
+CertificateConfirmationContentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/CertificateConfirmationContentBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/package.html
+END
+CMPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/CMPException.java
+END
+RevocationDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/RevocationDetails.java
+END
+CMPRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/CMPRuntimeException.java
+END
+ProtectedPKIMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/ProtectedPKIMessage.java
+END
+CertificateStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/CertificateStatus.java
+END
+RevocationDetailsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/RevocationDetailsBuilder.java
+END
+GeneralPKIMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/GeneralPKIMessage.java
+END
+CertificateConfirmationContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/cmp/CertificateConfirmationContent.java
+END

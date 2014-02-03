@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom
+END
+RoundRectangle2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/RoundRectangle2D.java
+END
+PathIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/PathIterator.java
+END
+IllegalPathStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/IllegalPathStateException.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/Area.java
+END
+Dimension2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/Dimension2D.java
+END
+Line2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/Line2D.java
+END
+Point2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/Point2D.java
+END
+CubicCurve2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/CubicCurve2D.java
+END
+FlatteningPathIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/FlatteningPathIterator.java
+END
+Ellipse2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/Ellipse2D.java
+END
+AffineTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/AffineTransform.java
+END
+QuadCurve2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/QuadCurve2D.java
+END
+RectangularShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/RectangularShape.java
+END
+NoninvertibleTransformException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/NoninvertibleTransformException.java
+END
+GeneralPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/GeneralPath.java
+END
+Rectangle2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/Rectangle2D.java
+END
+Arc2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/droidText/src/harmony/harmony/java/awt/geom/Arc2D.java
+END

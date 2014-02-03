@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf
+END
+PKMACValueVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/PKMACValueVerifier.java
+END
+PKMACValuesCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/PKMACValuesCalculator.java
+END
+CRMFUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/CRMFUtil.java
+END
+PKIArchiveControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/PKIArchiveControl.java
+END
+FixedLengthMGF1Padder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/FixedLengthMGF1Padder.java
+END
+PKIArchiveControlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/PKIArchiveControlBuilder.java
+END
+PKMACValueGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/PKMACValueGenerator.java
+END
+ProofOfPossessionSigningKeyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/ProofOfPossessionSigningKeyBuilder.java
+END
+CertificateRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/CertificateRequestMessage.java
+END
+EncryptedValueBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/EncryptedValueBuilder.java
+END
+PKMACBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/PKMACBuilder.java
+END
+CRMFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/CRMFException.java
+END
+CertificateRequestMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/CertificateRequestMessageBuilder.java
+END
+EncryptedValueParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/EncryptedValueParser.java
+END
+EncryptedValuePadder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/EncryptedValuePadder.java
+END
+CRMFRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/CRMFRuntimeException.java
+END
+AuthenticatorControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/AuthenticatorControl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/package.html
+END
+ValueDecryptorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/ValueDecryptorGenerator.java
+END
+RegTokenControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/RegTokenControl.java
+END
+Control.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/cert/crmf/Control.java
+END

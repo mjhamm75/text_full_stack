@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles
+END
+FontColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/FontColor.java
+END
+FixedFontWidth.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/FixedFontWidth.java
+END
+ExtraStyles.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/ExtraStyles.java
+END
+WidthHeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/WidthHeight.java
+END
+Vertical.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/Vertical.java
+END
+FontStylePropagation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/FontStylePropagation.java
+END
+RightToLeft.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/RightToLeft.java
+END
+ComplexText.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/droidTextTest/src/examples/com/lowagie/examples/fonts/styles/ComplexText.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation
+END
+PatternConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/PatternConsumer.java
+END
+Hyphen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/Hyphen.java
+END
+CharVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/CharVector.java
+END
+Hyphenator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/Hyphenator.java
+END
+SimplePatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/SimplePatternParser.java
+END
+TernaryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/TernaryTree.java
+END
+HyphenationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/HyphenationException.java
+END
+Hyphenation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/Hyphenation.java
+END
+ByteVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/ByteVector.java
+END
+HyphenationTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/hyphenation/HyphenationTree.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/text/html/simpleparser
+END
+StyleSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/StyleSheet.java
+END
+IncCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/IncCell.java
+END
+Img.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/Img.java
+END
+ImageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/ImageProvider.java
+END
+ALink.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/ALink.java
+END
+HTMLWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/HTMLWorker.java
+END
+IncTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/IncTable.java
+END
+FactoryProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/FactoryProperties.java
+END
+ChainedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/html/simpleparser/ChainedProperties.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec
+END
+JBIG2Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/JBIG2Image.java
+END
+BmpImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/BmpImage.java
+END
+CCITTG4Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/CCITTG4Encoder.java
+END
+JBIG2SegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/JBIG2SegmentReader.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/Base64.java
+END
+TIFFConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/TIFFConstants.java
+END
+PngImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/PngImage.java
+END
+GifImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/GifImage.java
+END
+TiffImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/TiffImage.java
+END
+TIFFLZWDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/TIFFLZWDecoder.java
+END
+TIFFField.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/TIFFField.java
+END
+TIFFFaxDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/TIFFFaxDecoder.java
+END
+TIFFDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/codec/TIFFDirectory.java
+END

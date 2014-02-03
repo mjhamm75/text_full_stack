@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/droidtext" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rtf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rups" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/toolbox" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="module" module-name="droidText" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="droidTextTest" />
+    <orderEntry type="module" module-name="www" />
+  </component>
+</module>
+

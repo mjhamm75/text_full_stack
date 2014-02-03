@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/models
+END
+JTableAutoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/models/JTableAutoModel.java
+END
+JTableAutoModelInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/models/JTableAutoModelInterface.java
+END
+DictionaryTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/models/DictionaryTableModel.java
+END
+PdfArrayTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rups/com/lowagie/rups/view/models/PdfArrayTableModel.java
+END

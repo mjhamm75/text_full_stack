@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/asymmetric/ec
+END
+KeyAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/asymmetric/ec/KeyAgreement.java
+END
+KeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/asymmetric/ec/KeyFactory.java
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/asymmetric/ec/Signature.java
+END
+ECUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/asymmetric/ec/ECUtil.java
+END
+KeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/provider/asymmetric/ec/KeyPairGenerator.java
+END

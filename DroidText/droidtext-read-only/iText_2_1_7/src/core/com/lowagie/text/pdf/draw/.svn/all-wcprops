@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/draw
+END
+DrawInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/draw/DrawInterface.java
+END
+LineSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/draw/LineSeparator.java
+END
+VerticalPositionMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/draw/VerticalPositionMark.java
+END
+DottedLineSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/draw/DottedLineSeparator.java
+END

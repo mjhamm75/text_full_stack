@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/exceptions
+END
+InvalidPdfException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/exceptions/InvalidPdfException.java
+END
+UnsupportedPdfException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/exceptions/UnsupportedPdfException.java
+END
+BadPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/exceptions/BadPasswordException.java
+END
+IllegalPdfSyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/exceptions/IllegalPdfSyntaxException.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp
+END
+OCSPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/OCSPException.java
+END
+OCSPReqGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/OCSPReqGenerator.java
+END
+CertificateStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/CertificateStatus.java
+END
+RespID.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/RespID.java
+END
+Req.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/Req.java
+END
+OCSPResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/OCSPResp.java
+END
+CertificateID.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/CertificateID.java
+END
+BasicOCSPResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/BasicOCSPResp.java
+END
+OCSPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/OCSPUtil.java
+END
+OCSPRespStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/OCSPRespStatus.java
+END
+UnknownStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/UnknownStatus.java
+END
+RevokedStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/RevokedStatus.java
+END
+RespData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/RespData.java
+END
+OCSPRespGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/OCSPRespGenerator.java
+END
+BasicOCSPRespGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/BasicOCSPRespGenerator.java
+END
+SingleResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/SingleResp.java
+END
+OCSPReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/OCSPReq.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/ocsp/package.html
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec
+END
+ECConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ECConstants.java
+END
+Tnaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/Tnaf.java
+END
+IntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/IntArray.java
+END
+SimpleBigDecimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/SimpleBigDecimal.java
+END
+ECCurve.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ECCurve.java
+END
+ZTauElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ZTauElement.java
+END
+WNafPreCompInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/WNafPreCompInfo.java
+END
+ECMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ECMultiplier.java
+END
+FpNafMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/FpNafMultiplier.java
+END
+ECPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ECPoint.java
+END
+WNafMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/WNafMultiplier.java
+END
+ReferenceMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ReferenceMultiplier.java
+END
+ECFieldElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ECFieldElement.java
+END
+WTauNafPreCompInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/WTauNafPreCompInfo.java
+END
+WTauNafMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/WTauNafMultiplier.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/package.html
+END
+PreCompInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/PreCompInfo.java
+END
+ECAlgorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/math/ec/ECAlgorithms.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro
+END
+GOST3410NamedParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/GOST3410NamedParameters.java
+END
+ECGOST3410ParamSetParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/ECGOST3410ParamSetParameters.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/package.html
+END
+CryptoProObjectIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/CryptoProObjectIdentifiers.java
+END
+GOST3410PublicKeyAlgParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/GOST3410PublicKeyAlgParameters.java
+END
+GOST3410ParamSetParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/GOST3410ParamSetParameters.java
+END
+GOST28147Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/GOST28147Parameters.java
+END
+ECGOST3410NamedCurves.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/asn1/cryptopro/ECGOST3410NamedCurves.java
+END

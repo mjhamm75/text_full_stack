@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/collection
+END
+PdfCollectionSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/collection/PdfCollectionSort.java
+END
+PdfCollectionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/collection/PdfCollectionItem.java
+END
+PdfCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/collection/PdfCollection.java
+END
+PdfCollectionSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/collection/PdfCollectionSchema.java
+END
+PdfTargetDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/collection/PdfTargetDictionary.java
+END
+PdfCollectionField.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/pdf/collection/PdfCollectionField.java
+END

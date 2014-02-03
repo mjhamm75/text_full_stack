@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations
+END
+RtfDestinationNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationNull.java
+END
+RtfDestinationShppict.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationShppict.java
+END
+RtfDestinationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationInfo.java
+END
+RtfDestinationDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationDocument.java
+END
+RtfDestinationFontTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationFontTable.java
+END
+RtfDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestination.java
+END
+RtfDestinationStylesheetTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationStylesheetTable.java
+END
+RtfDestinationListTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationListTable.java
+END
+RtfDestinationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationListener.java
+END
+RtfDestinationMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationMgr.java
+END
+RtfDestinationColorTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/destinations/RtfDestinationColorTable.java
+END

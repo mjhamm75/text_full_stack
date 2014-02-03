@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/51/trunk/droidText/src/core/com/lowagie/text
+END
+Jpeg2000.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Jpeg2000.java
+END
+ChapterAutoNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ChapterAutoNumber.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Header.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Element.java
+END
+ListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ListItem.java
+END
+ImgJBIG2.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ImgJBIG2.java
+END
+TextElementArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/TextElementArray.java
+END
+SimpleTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/SimpleTable.java
+END
+RectangleReadOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/RectangleReadOnly.java
+END
+DocWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/DocWriter.java
+END
+ImgCCITT.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ImgCCITT.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Section.java
+END
+FontFactoryImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/FontFactoryImp.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Font.java
+END
+SpecialSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/SpecialSymbol.java
+END
+HeaderFooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/HeaderFooter.java
+END
+ImgTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ImgTemplate.java
+END
+ElementTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ElementTags.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Annotation.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/List.java
+END
+BadElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/BadElementException.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/50/trunk/droidText/src/core/com/lowagie/text/Image.java
+END
+Chapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Chapter.java
+END
+ImgRaw.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ImgRaw.java
+END
+ImgWMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ImgWMF.java
+END
+Meta.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Meta.java
+END
+RtfElementInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/RtfElementInterface.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Table.java
+END
+MarkedSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/MarkedSection.java
+END
+SimpleCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/SimpleCell.java
+END
+GreekList.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/GreekList.java
+END
+MarkedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/MarkedObject.java
+END
+DocumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/DocumentException.java
+END
+FontFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/FontFactory.java
+END
+ElementListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ElementListener.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Rectangle.java
+END
+LargeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/LargeElement.java
+END
+Paragraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Paragraph.java
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Row.java
+END
+PageSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/PageSize.java
+END
+ZapfDingbatsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ZapfDingbatsList.java
+END
+SplitCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/SplitCharacter.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Chunk.java
+END
+RomanList.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/RomanList.java
+END
+Anchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Anchor.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Utilities.java
+END
+DocListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/DocListener.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Document.java
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Cell.java
+END
+ZapfDingbatsNumberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ZapfDingbatsNumberList.java
+END
+Phrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/Phrase.java
+END
+Jpeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/50/trunk/droidText/src/core/com/lowagie/text/Jpeg.java
+END
+ExceptionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/ExceptionConverter.java
+END

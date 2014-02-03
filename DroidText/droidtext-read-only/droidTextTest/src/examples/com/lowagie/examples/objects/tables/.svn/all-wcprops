@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables
+END
+CellPaddingLeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/CellPaddingLeading.java
+END
+CellHeights.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/CellHeights.java
+END
+TableSpacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/TableSpacing.java
+END
+NestedTables.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/NestedTables.java
+END
+CellAlignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/CellAlignment.java
+END
+CellColors.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/CellColors.java
+END
+CellWidths.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/CellWidths.java
+END
+AddBigTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/AddBigTable.java
+END
+ImageCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/ImageCell.java
+END
+DefaultCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/DefaultCell.java
+END
+MyFirstTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/MyFirstTable.java
+END
+SplitRows.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/SplitRows.java
+END
+TableWidthAlignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/TableWidthAlignment.java
+END
+TableBorders.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/droidTextTest/src/examples/com/lowagie/examples/objects/tables/TableBorders.java
+END

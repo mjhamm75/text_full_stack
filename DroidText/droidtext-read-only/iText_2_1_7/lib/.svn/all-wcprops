@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib
+END
+iTextAsian.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/iTextAsian.jar
+END
+crimson.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/crimson.jar
+END
+bcmail-jdk14-138.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/bcmail-jdk14-138.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/junit-4.4.jar
+END
+jfreechart.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/jfreechart.jar
+END
+pdf-renderer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/pdf-renderer.jar
+END
+iTextAsianCmaps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/iTextAsianCmaps.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/dom4j-1.6.1.jar
+END
+bcprov-jdk14-138.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/bcprov-jdk14-138.jar
+END
+bctsp-jdk14-138.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/bctsp-jdk14-138.jar
+END
+itext-hyph-xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/itext-hyph-xml.jar
+END
+jcommon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/jcommon.jar
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/iText_2_1_7/lib/servlet.jar
+END

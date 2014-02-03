@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/jcajce
+END
+JcaPKCS10CertificationRequestHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/jcajce/JcaPKCS10CertificationRequestHolder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/jcajce/package.html
+END
+JcaPKCS10CertificationRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/pkcs/jcajce/JcaPKCS10CertificationRequestBuilder.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec
+END
+IESParameterSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/IESParameterSpec.java
+END
+GOST28147ParameterSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/GOST28147ParameterSpec.java
+END
+GOST3410ParameterSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/GOST3410ParameterSpec.java
+END
+ECParameterSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ECParameterSpec.java
+END
+GOST3410PrivateKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/GOST3410PrivateKeySpec.java
+END
+ECPrivateKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ECPrivateKeySpec.java
+END
+GOST3410PublicKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/GOST3410PublicKeySpec.java
+END
+ElGamalGenParameterSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ElGamalGenParameterSpec.java
+END
+ECPublicKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ECPublicKeySpec.java
+END
+ECKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ECKeySpec.java
+END
+ECNamedCurveParameterSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ECNamedCurveParameterSpec.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/package.html
+END
+ElGamalParameterSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ElGamalParameterSpec.java
+END
+IEKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/IEKeySpec.java
+END
+ElGamalPrivateKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ElGamalPrivateKeySpec.java
+END
+MQVPrivateKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/MQVPrivateKeySpec.java
+END
+GOST3410PublicKeyParameterSetSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/GOST3410PublicKeyParameterSetSpec.java
+END
+ElGamalPublicKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ElGamalPublicKeySpec.java
+END
+ElGamalKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/ElGamalKeySpec.java
+END
+MQVPublicKeySpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/spec/MQVPublicKeySpec.java
+END

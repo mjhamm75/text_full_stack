@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser
+END
+SimpleTextExtractingPdfContentStreamProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser/SimpleTextExtractingPdfContentStreamProcessor.java
+END
+PdfTextExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser/PdfTextExtractor.java
+END
+PdfContentStreamProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser/PdfContentStreamProcessor.java
+END
+GraphicsState.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser/GraphicsState.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser/Matrix.java
+END
+PdfContentReaderTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser/PdfContentReaderTool.java
+END
+ContentOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/parser/ContentOperator.java
+END

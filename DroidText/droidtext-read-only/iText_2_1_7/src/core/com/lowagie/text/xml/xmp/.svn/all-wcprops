@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp
+END
+XmpWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/XmpWriter.java
+END
+LangAlt.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/LangAlt.java
+END
+XmpArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/XmpArray.java
+END
+XmpSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/XmpSchema.java
+END
+XmpBasicSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/XmpBasicSchema.java
+END
+DublinCoreSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/DublinCoreSchema.java
+END
+XmpReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/XmpReader.java
+END
+PdfSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/PdfSchema.java
+END
+PdfA1Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/PdfA1Schema.java
+END
+XmpMMSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/xml/xmp/XmpMMSchema.java
+END

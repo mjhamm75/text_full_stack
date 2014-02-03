@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins
+END
+ImageXRefViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/ImageXRefViewer.java
+END
+ReversePages.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/ReversePages.java
+END
+Txt2Pdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Txt2Pdf.java
+END
+Split.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Split.java
+END
+Bookmarks2XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Bookmarks2XML.java
+END
+XML2Bookmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/XML2Bookmarks.java
+END
+Burst.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Burst.java
+END
+InspectPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/InspectPDF.java
+END
+translate.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/translate.png
+END
+Normalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Normalize.java
+END
+rotate.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/rotate.png
+END
+NUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/NUp.java
+END
+Divide.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Divide.java
+END
+Tiff2Pdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Tiff2Pdf.java
+END
+ExtractAttachments.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/ExtractAttachments.java
+END
+Concat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Concat.java
+END
+SelectedPages.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/SelectedPages.java
+END
+CompressDecompressPageContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/CompressDecompressPageContent.java
+END
+PhotoAlbum.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/PhotoAlbum.java
+END
+Decrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Decrypt.java
+END
+DvdCover.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/DvdCover.java
+END
+RemoveLaunchApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/RemoveLaunchApplication.java
+END
+HtmlBookmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/HtmlBookmarks.java
+END
+KnitTiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/KnitTiff.java
+END
+Add3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Add3D.java
+END
+Watermarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Watermarker.java
+END
+Encrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Encrypt.java
+END
+Handouts.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/Handouts.java
+END
+ConcatN.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/ConcatN.java
+END
+zoom.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/toolbox/com/lowagie/toolbox/plugins/zoom.png
+END

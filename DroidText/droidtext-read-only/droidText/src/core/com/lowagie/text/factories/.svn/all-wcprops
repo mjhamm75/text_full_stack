@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/factories
+END
+ElementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/factories/ElementFactory.java
+END
+RomanAlphabetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/factories/RomanAlphabetFactory.java
+END
+GreekAlphabetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/factories/GreekAlphabetFactory.java
+END
+RomanNumberFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/factories/RomanNumberFactory.java
+END

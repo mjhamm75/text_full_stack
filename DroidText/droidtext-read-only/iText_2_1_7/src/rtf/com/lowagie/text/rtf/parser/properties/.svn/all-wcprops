@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/properties
+END
+RtfCtrlWordPropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/properties/RtfCtrlWordPropertyType.java
+END
+RtfPropertyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/properties/RtfPropertyListener.java
+END
+RtfProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/rtf/com/lowagie/text/rtf/parser/properties/RtfProperty.java
+END

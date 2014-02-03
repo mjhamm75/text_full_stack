@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/exception
+END
+ExtCertPathValidatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/exception/ExtCertPathValidatorException.java
+END
+ExtCertPathBuilderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/exception/ExtCertPathBuilderException.java
+END
+ExtIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/exception/ExtIOException.java
+END
+ExtCertificateEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/exception/ExtCertificateEncodingException.java
+END
+ExtException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jce/exception/ExtException.java
+END

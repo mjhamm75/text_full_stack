@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jcajce
+END
+ProviderJcaJceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jcajce/ProviderJcaJceHelper.java
+END
+JcaJceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jcajce/JcaJceHelper.java
+END
+DefaultJcaJceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jcajce/DefaultJcaJceHelper.java
+END
+NamedJcaJceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/42/trunk/droidText/src/bouncycastle/repack/org/bouncycastle/jcajce/NamedJcaJceHelper.java
+END

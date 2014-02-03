@@ -1,0 +1,119 @@
+10
+
+dir
+54
+http://droidtext.googlecode.com/svn/trunk/droidText/src/bouncycastle/repack/org/bouncycastle
+http://droidtext.googlecode.com/svn
+
+
+
+2013-02-08T21:38:06.564475Z
+42
+markus.neubrand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8b4224e-3745-4ad9-7c32-5f66844b771a
+
+jcajce
+dir
+
+i18n
+dir
+
+crypto
+dir
+
+cms
+dir
+
+openssl
+dir
+
+voms
+dir
+
+math
+dir
+
+operator
+dir
+
+cert
+dir
+
+pkcs
+dir
+
+jce
+dir
+
+asn1
+dir
+
+LICENSE.java
+file
+
+
+
+
+2013-07-19T10:47:01.313413Z
+7faddc6a5d81d4582eb70be915a20514
+2013-02-08T21:38:06.564475Z
+42
+markus.neubrand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3394
+
+ocsp
+dir
+
+x509
+dir
+
+tsp
+dir
+
+mozilla
+dir
+
+openpgp
+dir
+
+bcpg
+dir
+
+util
+dir
+

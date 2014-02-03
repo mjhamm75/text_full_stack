@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf
+END
+TestPdfCopyAndStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/TestPdfCopyAndStamp.java
+END
+PdfReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/PdfReaderTest.java
+END
+PdfRectangleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/PdfRectangleTest.java
+END
+MetaDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/MetaDataTest.java
+END
+list_register.xfdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/list_register.xfdf
+END
+getLinkTest1.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/getLinkTest1.pdf
+END
+getLinkTest2.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/getLinkTest2.pdf
+END
+BookmarksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/BookmarksTest.java
+END
+AcroFieldsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/AcroFieldsTest.java
+END
+UnbalancedOperatorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/test/core/com/lowagie/text/pdf/UnbalancedOperatorsTest.java
+END

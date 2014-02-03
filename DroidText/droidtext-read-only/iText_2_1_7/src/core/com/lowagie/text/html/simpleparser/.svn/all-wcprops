@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser
+END
+StyleSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/StyleSheet.java
+END
+IncCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/IncCell.java
+END
+Img.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/Img.java
+END
+ImageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/ImageProvider.java
+END
+ALink.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/ALink.java
+END
+HTMLWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/HTMLWorker.java
+END
+IncTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/IncTable.java
+END
+FactoryProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/FactoryProperties.java
+END
+ChainedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/trunk/iText_2_1_7/src/core/com/lowagie/text/html/simpleparser/ChainedProperties.java
+END

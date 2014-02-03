@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp
+END
+PdfA1Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/PdfA1Schema.java
+END
+XmpMMSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/XmpMMSchema.java
+END
+XmpWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/XmpWriter.java
+END
+LangAlt.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/LangAlt.java
+END
+XmpArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/XmpArray.java
+END
+XmpSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/XmpSchema.java
+END
+XmpBasicSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/XmpBasicSchema.java
+END
+DublinCoreSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/DublinCoreSchema.java
+END
+XmpReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/XmpReader.java
+END
+PdfSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/xml/xmp/PdfSchema.java
+END

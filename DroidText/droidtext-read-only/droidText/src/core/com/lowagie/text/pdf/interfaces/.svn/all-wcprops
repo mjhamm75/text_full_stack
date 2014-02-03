@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces
+END
+PdfEncryptionSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfEncryptionSettings.java
+END
+PdfPageActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfPageActions.java
+END
+PdfAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfAnnotations.java
+END
+PdfDocumentActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfDocumentActions.java
+END
+PdfXConformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfXConformance.java
+END
+PdfViewerPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfViewerPreferences.java
+END
+PdfVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfVersion.java
+END
+PdfRunDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8/trunk/droidText/src/core/com/lowagie/text/pdf/interfaces/PdfRunDirection.java
+END
